@@ -1,0 +1,68 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+body{
+  font-family: Inter,sans-serif;
+}
+#about{
+  margin-top: 90px;
+}
+
+.rounded-circle{
+  border-style: inset;
+}
+
+.blogPost {
+  background-color: #edf7fa;
+  
+}
+
+#featuredTitle{
+  margin-left: 265px;
+}
+.featuredYear h6{
+  justify-content:flex-end;
+  color: #8695A4;
+}
+.featuredYear p{
+  margin-left: 24px;
+  background-color: #142850;
+  color: #ffffff;
+}
+#featuredParagph{
+  margin-left: 265px;
+}
+
+#imageOne{
+  border-radius: 25px;
+  
+}
+#postView{
+  text-decoration:none;
+}
+
+.list-inline-item{
+  width: 24px;
+}
+
+#blogYear{
+  line-height: 28px;
+}
+
+.recentTitle p{
+  justify-content: space-around;
+  margin-bottom: 2;
+}
+#aboutCol p{
+  -ms-word-break:keep-all;
+}
