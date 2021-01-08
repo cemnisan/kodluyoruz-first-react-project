@@ -12,7 +12,7 @@ class WorkDetails extends Component {
                             return (
                                 <div className="col-xxl-12 col-md-6 p-2">
                                     <img src={item.image} className="rounded float-start py-2" alt="..."/>
-                                    <h4 id="featuredTitle" class="fw-bolder mb-3">{item.title}</h4>
+                                    <h4 id="featuredTitle" className="fw-bolder mb-3">{item.title}</h4>
                                     <div className="featuredYear d-flex">
                                         <p className="btn btn-secondary rounded-pill text-center py-0 mb-3">{item.date}</p>
                                         <h6 className="fs-5 mx-2">{item.infoContent}</h6>

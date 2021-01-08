@@ -35,16 +35,16 @@ let resumeData = {
         },
         {
             "image":p2,
-            "title":"Designing Dashboards",
-            "date":"2020",
-            "infoContent":"Dashboard",
+            "title":"Vibrant Portraits of 2020",
+            "date":"2018",
+            "infoContent":"Illustration",
             "content":"Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet."
         },
         {
             "image":p3,
-            "title":"Designing Dashboards",
-            "date":"2020",
-            "infoContent":"Dashboard",
+            "title":"36 Days of Malayalam type",
+            "date":"2018",
+            "infoContent":"Typography",
             "content":"Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet."
         },
     ],
